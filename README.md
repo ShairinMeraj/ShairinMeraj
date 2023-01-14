@@ -3,7 +3,7 @@
 <p><em>Third-Year Undergrad<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learner, Coder, Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: shairin-meraj](https://img.shields.io/badge/-shairin--meraj-blue?style=flat&logo=linkedin&labelColor=blue/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: shairin-meraj](https://img.shields.io/badge/-shairin--meraj-blue?style=flat&logo=linkedin&labelColor=blue/)](https://www.linkedin.com/in/shairin-meraj-451524202/)
 
 
 
